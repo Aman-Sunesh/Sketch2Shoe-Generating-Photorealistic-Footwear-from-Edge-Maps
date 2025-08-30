@@ -20,7 +20,7 @@ Sketch2Shoe-Generating-Photorealistic-Footwear-from-Edge-Maps/
 │── Sketch2Shoe.ipynb       # Main notebook (training + evaluation + UI)
 ```
 
----
+--- 
 
 ## Installation
 
